@@ -1,0 +1,1 @@
+Explore web scraping techniques to collect data from websites. This folder provides hands-on exercises and examples using libraries like BeautifulSoup and Scrapy, guiding you through the process of extracting valuable information from the web.
